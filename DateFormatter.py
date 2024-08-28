@@ -1,5 +1,5 @@
 
-
+ 
 months = ["Januar", "Februar", "Marts", "April", "Maj" , "Juni", "Juli", "August", "September", "Oktober", "November", "December"]
 length = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 searches = []
